@@ -1,3 +1,14 @@
 body {
     font-family: sans-serif;
+    text-align: center;
+}
+
+div.thing {
+  text-align: left;
+  width: 800px;
+  margin: 0 auto 0;
+  box-sizing: border-box;
+  border: 1px solid black;
+  margin-top: 2px;
+  padding: 2px;
 }
