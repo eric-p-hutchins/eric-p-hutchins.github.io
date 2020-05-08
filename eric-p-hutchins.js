@@ -1,0 +1,4 @@
+class EPH {
+    constructor() {
+    }
+}
